@@ -1,0 +1,25 @@
+<?php
+
+return array(
+    'create_title'=>'শিক্ষকের তথ্য',
+    'icon'=>'আইকন',
+    'order_by'=>'সিরিয়াল',
+    'status'=>'স্ট্যাটাস',
+    'headline'=>'হেডলাইন',
+    'headline_en'=>'হেডলাইন ইংরেজি',
+    'headline_bn'=>'হেডলাইন বাংলা',
+    'description'=>'বর্ণনা',
+    'title'=>'শিরোনাম',
+    'title_en'=>'শিরোনাম ইংরেজি',
+    'title_bn'=>'শিরোনাম বাংলা',
+    'description'=>'বর্ণনা',
+    'description_en'=>'বর্ণনা ইংরেজি',
+    'description_bn'=>'বর্ণনা বাংলা',
+    'index_title'=> 'সকল শিক্ষকের তথ্য',
+    'create_message'=>'শিক্ষকের তথ্য তৈরি করা হলো',
+    'update_message'=>'শিক্ষকের তথ্য আপডেট করা হলো',
+    'status_message'=>'স্ট্যাটাস চেন্জ করা হয়েছে',
+    'delete_message'=>'শিক্ষকের তথ্য অপসারণ করা হয়েছে',
+    'retrive_message'=>'শিক্ষকের তথ্য পুনুরুদ্ধার করা হয়েছে',
+    'permenant_delete'=>'শিক্ষকের তথ্য সম্পুর্ণ ভাবে অপসারণ করা হয়েছে',
+);

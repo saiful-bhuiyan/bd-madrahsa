@@ -1,0 +1,22 @@
+<?php
+return array(
+    'create_title'=>'রোল',
+    'english_name'=>'ইংরেজি নাম',
+    'bangla_name'=>'বাংলা নাম',
+    'status'=>'স্ট্যাটাস',
+    'index_title'=>'সব ইউজার',
+    'role'=>'রোল',
+    'user_name'=>'ইউজার নাম',
+    'email'=>'ইমেইল',
+    'mobile'=>'মোবাইল',
+    'password'=>'পাসওয়ার্ড',
+    'image'=>'ছবি',
+    'create_message'=>'ইউজার বানানো হয়েছে',
+    'update_message'=>'ইউজার টি আপডেট করা হয়েছে',
+    'status_message'=>'স্ট্যাটাস পরিবর্তন করা হয়েছে',
+    'delete_message'=>'ইউজার অপসারণ করা হয়েছে',
+    'permission'=>'অনুমতি',
+    'name'=>'নাম',
+    'role_id'=>'রোল আইডি',
+    'permission_success'=>'অনুমতি পরিবর্তন করা হয়েছে',
+);
